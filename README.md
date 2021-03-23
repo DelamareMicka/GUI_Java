@@ -9,6 +9,7 @@ Clique droit sur package ==> New ==> Others ==> Dossier WindowBuilder (si le dos
 
 #Premiere Fenetre
 
+```
 package Package;
 
 import java.awt.EventQueue;
@@ -75,9 +76,9 @@ public class ma_fenetre {
 
 }
 
-
+```
 #Deuxieme fenetre
-
+```
 package Package;
 
 import java.awt.EventQueue;
@@ -129,3 +130,4 @@ public class Go_next_page {
 	}
 
 }
+```
